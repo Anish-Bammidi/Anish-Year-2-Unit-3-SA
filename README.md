@@ -15,6 +15,10 @@ This project follows a structured human-centered design methodology progressing 
 
 ---
 
+Survey link - https://docs.google.com/forms/d/e/1FAIpQLSfaDXK3bx1f8nhkprDtEFt3YyO4WYaeQkUPhnGjZoCXp-RqkQ/viewform
+Feedback Link - https://docs.google.com/forms/d/e/1FAIpQLSdiruXgp5sDHiMDXkfSozY3BCxg1hFrA0Y1gCFMFVgzenMznw/viewform
+
+
 ## Project Overview
 MindPatch is an AI-assisted digital wellness planner designed to help students develop healthier technology habits and maintain emotional balance in an increasingly hyperconnected world. With rising academic pressure and prolonged screen exposure, many students experience digital fatigue, reduced focus, and emotional stress.
 
